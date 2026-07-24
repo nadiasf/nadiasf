@@ -1,6 +1,6 @@
 # Hi, I'm Nadia 👋
 
-I'm a System Analyst with experience in L2 Application Support, Functional Consulting, and SQL. I'm currently expanding my skills in Business Intelligence and Data Analytics.
+I'm a System Analyst with experience in L2 Application Support, Functional Consulting, SQL and C# .NET. I'm currently expanding my skills in Business Intelligence and Data Analytics.
 
 ## 🚀 What you'll find here
 - 💻 C#/.NET projects
