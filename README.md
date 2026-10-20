@@ -1,21 +1,31 @@
 # Hi, I'm Nadia 👋
 
-I'm a System Analyst with experience in L2 Application Support, Functional Consulting, SQL and C# .NET. I'm currently expanding my skills in Business Intelligence and Data Analytics.
+I'm an IT professional with experience in System Analysis, Functional Consulting, L2 Application Support, SQL and data validation. I'm currently expanding my skills in Data Engineering, Analytics Engineering and Business Intelligence through hands-on projects and continuous learning.
 
-## 🚀 What you'll find here
-- 💻 C#/.NET projects
-- 📊 Power BI dashboards and reports
-- 🗄️ SQL practice and data analysis
-- 📚 Learning projects and continuous improvement
+🚀 What You'll Find Here
 
-## 🛠️ Skills
-- C#
-- SQL Server
-- Power BI
-- Jira & Confluence
-- AWS (S3, CloudWatch)
-- Azure (Application Insight)
-- System Analysis
-- Application Support
+-🗄️ SQL and data analysis projects
+-🔄 Data transformation projects using dbt and PostgreSQL
+-📊 Power BI dashboards and reports
+-💻 C#/.NET development projects
+-📚 Technical learning projects and hands-on experiments
+-🛠️ Skills & Technologies
 
-Thanks for visiting my profile!
+-Databases: Microsoft SQL Server, PostgreSQL, Snowflake
+-Data & BI: SQL, Power BI, Power Query, Data Modeling
+-Data Engineering: dbt, ETL/ELT Fundamentals, Data Transformation
+-Programming: Python (Basic), C#
+-Cloud: AWS (S3, CloudWatch), Microsoft Azure
+-Tools: Git, GitHub, Jira, Confluence
+-IT Expertise: System Analysis, Application Support, Requirements Analysis, UAT, Data Validation
+
+🌱 Currently Learning
+
+-Data Engineering fundamentals
+-dbt and SQL-based data transformations
+-Data modeling and data quality testing
+-Python for data processing
+
+Thanks for visiting my profile! 😊
+
+
